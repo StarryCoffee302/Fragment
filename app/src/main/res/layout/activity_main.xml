@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textSize="18sp"
+android:text="@string/hi_everyone_this_is_main_activity_layout" />
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textSize="12sp"
+android:paddingBottom="15dp"
+android:text="@string/if_you_want_to_go_to_the_fragment_layout_click_the_purple_button_below" />
+
+    <Button
+        android:id="@+id/btn_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:text="@string/click_the_fragment"
+        android:textColor="@android:color/background_light" />
+
+    <FrameLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingTop="40dp"
+android:id="@+id/frame_layout">
+
+</FrameLayout>
+    </LinearLayout>

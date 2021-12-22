@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fragment_22_starry</string>
+    <string name="hi_everyone_this_is_main_activity_layout">✋🏻✋🏻Hi everyone, This is Main Activity Layout !</string>
+    <string name="if_you_want_to_go_to_the_fragment_layout_click_the_red_button_below">If you want to go to the fragment layout, Click the Red Button below !</string>
+    <string name="fragment">Fragment</string>
+    <string name="hi_again_this_is_a_fragment_layout">✋Hi Again ! This is a fragment layout✋</string>
+    <string name="show_me">👉Show Me👈</string>
+    <string name="click_the_fragment">👉click the fragment👈</string>
+    <string name="if_you_want_to_go_to_the_fragment_layout_click_the_purple_button_below">if you want to go to the fragment layout click the purple button below</string>
+</resources>
